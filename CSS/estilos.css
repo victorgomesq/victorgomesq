@@ -1,0 +1,36 @@
+body {
+    background-color: #882244; 
+    font-family: Arial;
+  }
+  
+  .menu {
+    background-color: White
+  }
+  
+  a {
+    color: purple;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none; 
+  }
+  
+  .site-title, .site-subtitle {
+    text-align: center;
+    color: whitesmoke;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
+  
